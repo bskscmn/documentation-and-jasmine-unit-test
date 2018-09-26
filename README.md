@@ -21,7 +21,7 @@ Todos application is an online Todo list manager.
 
 ### Architecture
 
-Vanilla JavaScript TodoMVC
+Vanilla JavaScript MVC
 
 **Folders**
 * `js` contains source files of the javascript
