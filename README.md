@@ -20,10 +20,10 @@ Todos application is an online Todo list manager.
 
 
 ### Architecture
-
-* `js folder` source files of the javascript
-* `test folder` contains Jasmine unit test files.
-* `node_modules folder` contains integrated modules such as jasmine (unit testing) and todomvc (MVC framework).
+**Folders**
+* `js` contains source files of the javascript
+* `test` contains Jasmine unit test files.
+* `node_modules` contains integrated modules such as jasmine (unit testing) and todomvc (MVC framework).
 
 **Main Javascript Files**
 
