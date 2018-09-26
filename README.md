@@ -99,15 +99,14 @@ Fixed:
 Added some tests to already written ones.
 
 1.	should show entries on start-up
-2.	should show all entries without "all" route
-3.	should show active entries
-4.	should show completed entries
-5.	should show the content block when todos exists
-6.	should highlight "All" filter by default
-7.	should toggle all todos to completed
-8.	should update the view
-9.	should add a new todo to the model
-10.	should remove an entry from the model
+2.	should show active entries
+3.	should show completed entries
+4.	should highlight "All" filter by default
+5. should highlight "Active" filter when switching to active view
+6.	should toggle all todos to completed
+7.	should update the view
+8.	should add a new todo to the model
+9.	should remove an entry from the model
 
 ##### Test Results:
 ![Test Results](https://github.com/bskscmn/todolist_docs/blob/master/documents/jasmine.jpg?raw=true)
