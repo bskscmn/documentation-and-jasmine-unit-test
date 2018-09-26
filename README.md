@@ -6,7 +6,7 @@ Aim of the project is working on an existing codebase by fixing bugs, adding tes
 > ![Aplication View](https://github.com/bskscmn/todolist_docs/blob/master/documents/todos.jpg?raw=true)
 ## About the Todos Application
 
-Todos application is an online Todo list manager. 
+Todos application is an online Todo list manager.  
 
 ### Features
 
@@ -20,6 +20,7 @@ Todos application is an online Todo list manager.
 
 
 ### Architecture
+Vanilla JavaScript TodoMVC
 **Folders**
 * `js` contains source files of the javascript
 * `test` contains Jasmine unit test files.
