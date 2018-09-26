@@ -1,11 +1,10 @@
 
 
-# Project-8 / Openclassrooms - Frontend Developer Path
-## Enhance an existing project
+# Project-8 / Openclassrooms - Frontend Developer Path  Enhance an existing project
  
 Aim of the project is working on an existing codebase by fixing bugs, adding tests, and optimizing performance.
 
-# About the Todos Application
+## About the Todos Application
 
 Todos application is an online Todo list manager. 
 
