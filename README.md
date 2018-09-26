@@ -44,7 +44,9 @@ Todos application is an online Todo list manager.
 
 > ~~Controller.prototype.adddItem~~
 
-> Fixed: Controller.prototype.addItem
+Fixed:
+
+> Controller.prototype.addItem
 
 #### 2.	`store.js` (line 83)
 
@@ -83,12 +85,12 @@ Another fix for unique id could be:
 
 #### 3. `index.html` (line 16);
 ```
-<input class="toggle-all" type="checkbox">~~
+<input class="toggle-all" type="checkbox">
 <label for="toggle-all">Mark all as complete</label>
 ```
 Fixed:
 ```
-<input id="toggle-all" class="toggle-all" type="checkbox">~~
+<input id="toggle-all" class="toggle-all" type="checkbox">
 <label for="toggle-all">Mark all as complete</label>
 ```
 ## Step 2: Add tests
@@ -107,6 +109,8 @@ Added some tests to already written ones.
 8.	should update the view
 9.	should add a new todo to the model
 10.	should remove an entry from the model
+
+![Test Results](https://github.com/bskscmn/todolist_docs/blob/master/documents/jasmine.jpg?raw=true)
 
 Audit Performance
 
