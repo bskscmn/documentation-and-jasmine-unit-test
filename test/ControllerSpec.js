@@ -158,9 +158,9 @@ describe('controller', function () {
 		// TODO: write test
 		setUpModel([]);
 
-		subject.setView('#/');
+		subject.setView('');
 
-		expect(view.render).toHaveBeenCalledWith('setFilter', '/');
+		expect(view.render).toHaveBeenCalledWith('setFilter', '');
 	});
 
 	it('should highlight "Active" filter when switching to active view', function () {
